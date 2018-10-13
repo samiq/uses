@@ -4,7 +4,7 @@ Below are the apps I currently have installed in my mac
 
 ### Apps in my Main Launchpad Secreen
 
-![Primary Launchpad Secreen](mac01.png "My Main Launchpad Secreen")
+![Primary Launchpad Screen](mac01.png "My Main Launchpad Screen")
 
 #### Apps not available from the Appstore are
 
@@ -15,7 +15,7 @@ Below are the apps I currently have installed in my mac
 
 ### Apps in my Secondary Launchpad Screen
 
-![Secondary Launchpad Secreen](mac02.png "My Secondary Launchpad Secreen")
+![Secondary Launchpad Screen](mac02.png "My Secondary Launchpad Screen")
 
 ### Apps not available from the Appstore are
 
