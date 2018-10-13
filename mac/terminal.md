@@ -41,8 +41,8 @@ pip install --user powerline-status
 ```
 
 - Install the [Fonts](../fonts.md)
-- Import [`cobalt2.terminal`](../themes/cobalt2.terminal) into the `Terminal` app
-- Copy [`cobalt2.zsh-theme`](../themes/cobalt2.zsh-theme) to `~/.oh-my-zsh/custom/themes/`
+- Import [`cobalt2.terminal`](../themes/cobalt2/cobalt2.terminal) into the `Terminal` app
+- Copy [`cobalt2.zsh-theme`](../themes/cobalt2/cobalt2.zsh-theme) to `~/.oh-my-zsh/custom/themes/`
 - Open `~/.zshrc` with `nano ~/.zshrc` to set theme
 
 ```
