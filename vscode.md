@@ -1,11 +1,9 @@
-## Visual Studio Code + Plugins
+# Visual Studio Code + Plugins
 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [Fonts](fonts.md)
 
----
-
-### Packages
+## Packages
 
 Following are the packages and plugins I'm currently using
 
@@ -15,9 +13,7 @@ Following are the packages and plugins I'm currently using
 4. [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) by Roberto Hertas
 5. [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) by Wes Bos
 
----
-
-### Settings
+## Settings
 
 ```javascript
 "workbench.colorTheme": "Cobalt2",

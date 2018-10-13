@@ -1,25 +1,23 @@
 # All other apps
 
-## Apps in my Main Launchpad Secreen
+Below are the apps I currently have installed in my mac
 
-Below are the apps I currently have in my main launchpad screen
+### Apps in my Main Launchpad Secreen
 
 ![Primary Launchpad Secreen](mac01.png "My Main Launchpad Secreen")
 
-### Apps not available in the Appstore are
+#### Apps not available from the Appstore are
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/): to remove apps and all related files.
 - [Vanilla](https://matthewpalmer.net/vanilla/): to hide menu bar icons on your Mac.
 
 ---
 
-## Apps in my Secondary Launchpad Screen
-
-Below are the apps I currently have in my secondary launchpad screen
+### Apps in my Secondary Launchpad Screen
 
 ![Secondary Launchpad Secreen](mac02.png "My Secondary Launchpad Secreen")
 
-### Apps not available in the Appstore are
+### Apps not available from the Appstore are
 
 - [Balsamiq](https://balsamiq.com/)
 - [Boxy Suite](https://www.boxysuite.com/?referral=RZJmjQkzfZejiL9csmCQVZ)

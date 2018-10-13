@@ -1,4 +1,5 @@
-## Terminal
+# Terminal
+
 Follow the next steps to setup the Terminal app
 
 - Install [Xcode](https://itunes.apple.com/gb/app/xcode/id497799835?mt=12)
@@ -10,11 +11,11 @@ xcode-select --install
 
 - Install `Homebrew`
 
-``` 
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-- Install `Zsh`  
+- Install `Zsh`
 
 ```
 brew install zsh
@@ -47,9 +48,11 @@ pip install --user powerline-status
 ```
 ZSH_THEME=cobalt2
 ```
----
-### Hyper
+
+## Hyper
+
 Hyper is an extensible, Electron-based terminal
+
 - Install [Hyper](https://hyper.is/)
 - Open `~/.hyper.js` with `nano ~/.hyper.js` to add fonts, theme and set the shell to use `zsh`
 

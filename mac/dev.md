@@ -1,8 +1,8 @@
-## Development Packages
+# Development Packages
 
----
+Below is my current development stack setup
 
-### Cocoapods
+## Cocoapods
 
 To manage dependencies for Swift and Objective-C projects
 
