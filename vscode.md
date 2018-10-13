@@ -15,6 +15,8 @@ Following are the packages and plugins I'm currently using
 
 ## Settings
 
+My current editor settins are
+
 ```javascript
 "workbench.colorTheme": "Cobalt2",
 "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
