@@ -15,7 +15,7 @@ Following are the packages and plugins I'm currently using
 
 ## Settings
 
-My current editor settins are
+My current editor settings are
 
 ```javascript
 "workbench.colorTheme": "Cobalt2",
