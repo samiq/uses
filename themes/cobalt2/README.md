@@ -1,5 +1,5 @@
 # Cobalt2
-[Wes Bos](@wesbos) made his `Cobalt2` theme famous via his amazing courses and I happen to have give in to the hype.
+[Wes Bos](https://github.com/wesbos) made his `Cobalt2` theme famous via his amazing courses and I happen to have give in to the hype.
 
 Below are versions of the `Cobalt2` theme for the Mac's Terminal app and for Zsh.
 
