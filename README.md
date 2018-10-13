@@ -12,11 +12,11 @@ this is my current stack for mac, windows and the web.
 
 ## on my surface
 
-- Install the fonts
-- Setup the Terminal
-- Setup Visual Studio Code
-- Setup my current Developmet Stack
-- Install all other apps
+- Install the [fonts](fonts.md)
+- Setup the [Terminal](windows/terminal.md)
+- Setup [Visual Studio Code](vscode.md)
+- Setup my current [Development Stack](windows/dev.md)
+- Install [all other apps](windows/other.md)
 
 ## on chrome
 
