@@ -45,7 +45,7 @@ My current editor settings are
         "shell": "C:\\Windows\\System32\\wsl.exe",
         "label": "WSL Bash"
     }
-]
+],
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
 "terminal.integrated.fontFamily": "Menlo for Powerline Regular",
 "workbench.colorTheme": "Cobalt2",
