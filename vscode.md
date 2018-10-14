@@ -1,7 +1,8 @@
 # Visual Studio Code + Plugins
 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install [Fonts](fonts.md)
+- Install the [Fonts](fonts.md)
+- Setup the Terminal ([Mac](mac/terminal.md), [Windows](windows/terminal.md))
 
 ## Packages
 
@@ -57,7 +58,7 @@ My current editor settings are
 
 #### Shell Launcher
 
-In order to easily switch between terminal shells (cmd, powershell and wsl) with key combination add via `Preferences -> KEybpoard Shurtcuts -> keybingins.json`
+In order to easily switch between terminal shells (cmd, powershell and wsl) with key combination add via `Preferences -> Keyboard Shurtcuts -> keybindings.json`
 
 ```javascript
   {
