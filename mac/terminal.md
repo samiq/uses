@@ -9,7 +9,7 @@ Follow the next steps to setup the Terminal app
 xcode-select --install
 ```
 
-- Install `Homebrew`
+- Install `Homebrew`, the package manager for Mac
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -61,7 +61,7 @@ shell: 'zsh',
 
 ...
 
-fontFamily: '"Inconsolata for Powerline", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
+fontFamily: '"Menlo for Powerline", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
 
 ...
 

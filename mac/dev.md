@@ -1,6 +1,6 @@
 # Development Packages
 
-Below is my current development stack setup
+Below is my current development stack setup on Mac
 
 ## Cocoapods
 
