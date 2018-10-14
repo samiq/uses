@@ -18,6 +18,16 @@ choco list --local-only
 choco install git
 ```
 
+## Windows Subsystem for Linux (WSL)
+
+- Turn on support for WSL in windows by opening Powershell as Administrator and run
+
+```
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
+- Install [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) from the Microsoft Store.
+
 ## Inside Ubuntu
 
 - Install Zsh
@@ -40,12 +50,14 @@ sudo apt-get install python
 ```
 
 - Install PIP
+
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 sudo python get-pip.py
 ```
 
 - Install Powerline
+
 ```
 pip install --user powerline-status
 ```
