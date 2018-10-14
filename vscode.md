@@ -48,7 +48,7 @@ My current editor settings are
     }
 ],
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
-"terminal.integrated.fontFamily": "Menlo for Powerline Regular",
+"terminal.integrated.fontFamily": "Menlo for Powerline",
 "workbench.colorTheme": "Cobalt2",
 "workbench.iconTheme": "vscode-icons",
 "workbench.startupEditor": "newUntitledFile",
