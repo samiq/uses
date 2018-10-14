@@ -32,6 +32,7 @@ My current editor settings are
 "editor.formatOnSave": true,
 "editor.rulers": [100, 120],
 "files.trimTrailingWhitespace": true,
+"git.enableSmartCommit": true,
 "prettier.eslintIntegration": true,
 "shellLauncher.shells.windows": [
     {
@@ -48,6 +49,7 @@ My current editor settings are
     }
 ],
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+"terminal.integrated.shell.osx": "zsh",
 "terminal.integrated.fontFamily": "Menlo for Powerline",
 "workbench.colorTheme": "Cobalt2",
 "workbench.iconTheme": "vscode-icons",
