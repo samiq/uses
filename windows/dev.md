@@ -4,6 +4,18 @@ Below is my current development stack setup on a Windows PC
 
 ### NVM + Node
 
+### Windows
+
+Download lates NVM installer from [Github](https://github.com/coreybutler/nvm-windows/releases)
+
+Install **Node 8** and update **NPM** via Powershell as an Administrator
+
+```
+nvm install 8
+```
+
+### Windows Subsystem for Linux
+
 Install Pre-requisites to NVM
 
 ```
