@@ -61,7 +61,7 @@ shell: 'zsh',
 
 ...
 
-fontFamily: '"Inconsolata for Powerline", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
+fontFamily: '"Menlo for Powerline", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
 
 ...
 

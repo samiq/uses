@@ -82,3 +82,26 @@ ZSH_THEME=cobalt2
 ```
 source .zshrc
 ```
+
+## Hyper
+
+Hyper is an extensible, Electron-based terminal
+
+- Install [Hyper](https://hyper.is/)
+- Open `~/.hyper.js` with `nano ~/.hyper.js` to add fonts, theme and set the shell to use `zsh`
+
+```
+shell: 'C:\\Windows\\System32\\wsl.exe',
+shellArgs: [],
+
+...
+
+fontSize: 14,
+fontFamily: '"Menlo for Powerline", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
+
+...
+
+plugins: [
+  'hyperterm-cobalt2-theme'
+],
+```
