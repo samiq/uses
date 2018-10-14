@@ -9,7 +9,7 @@ Follow the next steps to setup the Terminal app
 xcode-select --install
 ```
 
-- Install `Homebrew`
+- Install `Homebrew`, the package manager for Mac
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
