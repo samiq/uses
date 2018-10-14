@@ -32,25 +32,25 @@ My current editor settings are
 "editor.rulers": [100, 120],
 "files.trimTrailingWhitespace": true,
 "prettier.eslintIntegration": true,
+"shellLauncher.shells.windows": [
+    {
+        "shell": "C:\\Windows\\System32\\cmd.exe",
+        "label": "cmd"
+    },
+    {
+        "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "label": "PowerShell"
+    },
+    {
+        "shell": "C:\\Windows\\System32\\wsl.exe",
+        "label": "WSL Bash"
+    }
+]
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
 "terminal.integrated.fontFamily": "Menlo for Powerline Regular",
 "workbench.colorTheme": "Cobalt2",
 "workbench.iconTheme": "vscode-icons",
 "workbench.startupEditor": "newUntitledFile",
-"shellLauncher.shells.windows": [
-{
-    "shell": "C:\\Windows\\System32\\cmd.exe",
-    "label": "cmd"
-},
-{
-    "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "label": "PowerShell"
-},
-{
-    "shell": "C:\\Windows\\System32\\wsl.exe",
-    "label": "WSL Bash"
-}
-]
 ```
 
 ## Key Bindings
@@ -59,7 +59,7 @@ My current editor settings are
 
 In order to easily switch between terminal shells (cmd, powershell and wsl) with key combination add via `Preferences -> KEybpoard Shurtcuts -> keybingins.json`
 
-```
+```javascript
   {
     "key": "ctrl+shift+t",
     "command": "shellLauncher.launch"
