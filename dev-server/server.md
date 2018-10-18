@@ -1,5 +1,20 @@
 # Server
 
+Create an Ubuntu droplet in Digital Ocean, set it up with SSH keys on creation and include the setup script on creation by copying it on user data or by running the command below after it's been created.
+
+```
+ssh root@<server ip> "bash -s" -- < setup.sh
+```
+
+This script will secure the droplet and set a user with admin permissions to use instead of the root user.
+
+### Update Package Manager
+
+Before doing anything else, ssh to the server and update its package manager.
+
+```
+sudo apt-get update
+```
 
 ### Install Zsh
 
@@ -8,30 +23,32 @@ sudo apt-get install zsh
 chsh -s $(which zsh)
 ```
 
-### Setup Git
+### Install `Oh My ZSH`
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+#### Setup Git
 
 ```
 git config --global user.name "My Name"
 git config --global user.email "my@email.com"
 ```
 
-### Install NVM + Node
-
-Install the Pre-requisitions to NVM
-```
-sudo apt-get install build-essential libssl-dev
-```
-
-Install NVM (check [here](https://github.com/creationix/nvm#install-script) for latest version of script)
+#### Clone the `uses` repository
 
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
-source .bashrc
+git clone https://github.com/samiq/uses.git
 ```
 
-Install NPM 8
+#### Setup the theme
+
+Depending on the client that we use to access the server we can get a nicer experience thru the oh my zsh themes, next step is the steps to setup our own.
+
+- Copy [`cobalt2.zsh-theme`](../themes/cobalt2/cobalt2.zsh-theme) to `~/.oh-my-zsh/custom/themes/`
+- Open `~/.zshrc` with `nano ~/.zshrc` to set theme
 
 ```
-nvm install 8
-nvm install-latest-npm
+ZSH_THEME=cobalt2
 ```

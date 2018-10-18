@@ -28,16 +28,10 @@ chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-- Install `PIP`
+- Clone the `uses` repository
 
 ```
-sudo easy_install pip
-```
-
-- Install `Powerline`
-
-```
-pip install --user powerline-status
+git clone https://github.com/samiq/uses.git
 ```
 
 - Install the [Fonts](../fonts.md)
