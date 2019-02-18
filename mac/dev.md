@@ -28,17 +28,10 @@ export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 ```
 
-Install **Node 6** and update **NPM**
-
-```
-nvm install 6.14.4
-nvm install-latest-npm
-```
-
 Install **Node 8** and update **NPM**
 
 ```
-nvm install 8.12.0
+nvm install 8
 nvm use 8
 nvm install-latest-npm
 ```
