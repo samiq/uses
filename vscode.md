@@ -8,11 +8,13 @@
 
 Following are the packages and plugins I'm currently using
 
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) by Microsoft
 - [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) by Wes Bos
 - [ESList](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) by Dirk Baeumer
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) by Grape City
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by Esben Petersen
-- [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) by Daniel Imms
-- [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) by Daniel Imms
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) by Mechatroner
+- [TypeScript Import](https://marketplace.visualstudio.com/items?itemName=kevinmcgowan.TypeScriptImport) by Kevin McGowan
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) by pflannery
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) by Roberto Hertas
 
