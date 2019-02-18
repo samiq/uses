@@ -59,3 +59,11 @@ to switch between projects
 ```
 firebase use <project-name>
 ```
+
+### Back4App / Parse
+
+[Install](https://www.back4app.com/docs/platform/command-line-interface) the Parse CLI and add the Account Key.
+
+```
+b4a configure accountkey
+```
