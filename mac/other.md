@@ -10,6 +10,7 @@ Below are the apps I currently have installed in my mac
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/): to remove apps and all related files.
 - [Vanilla](https://matthewpalmer.net/vanilla/): to hide menu bar icons on your Mac.
+- [Reverse Scroller](https://pilotmoon.com/scrollreverser/): to independently reverse mouse scrolling while keep natural scrolling on the trackpad (great for when you have non-magic mouse pointers).
 
 ---
 
