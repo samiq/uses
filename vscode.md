@@ -12,7 +12,9 @@ Following are the packages and plugins I'm currently using
 - [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) by Wes Bos
 - [ESList](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) by Dirk Baeumer
 - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) by Grape City
+- [Node Version](https://marketplace.visualstudio.com/items?itemName=fivepointseven.node-version)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by Esben Petersen
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) by Mechatroner
 - [TypeScript Import](https://marketplace.visualstudio.com/items?itemName=kevinmcgowan.TypeScriptImport) by Kevin McGowan
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) by pflannery
