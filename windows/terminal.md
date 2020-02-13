@@ -18,12 +18,6 @@ The package manager for Windows
 choco list --local-only
 ```
 
-- Install Git
-
-```
-choco install git
-```
-
 ## Windows Subsystem for Linux (WSL)
 
 The Windows Subsystem for Linux lets developers run a Linux environment directly on Windows, without the overhead of a virtual machine.

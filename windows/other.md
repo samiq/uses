@@ -8,7 +8,7 @@ Below are the apps I currently have installed in my Surface
 
 - [Balsamiq](https://balsamiq.com/)
 - [Google Chrome](https://www.google.com/chrome/)
+- [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)
 - [Figma](https://www.figma.com/)
 - [Github Desktop](https://desktop.github.com/)
-- [Google Play Music for Desktop](https://www.googleplaymusicdesktopplayer.com/)
 - [Google Drive File Stream](https://support.google.com/drive/answer/7329379)

@@ -2,16 +2,28 @@
 
 Below is my current development stack setup on a Windows PC
 
-### NVM + Node
-
-### Windows
-
-Download lates NVM installer from [Github](https://github.com/coreybutler/nvm-windows/releases)
-
-Install **Node 8** and update **NPM** via Powershell as an Administrator
+### Git
 
 ```
-nvm install 8
+choco install git
+```
+
+### Node
+
+```
+choco install nodejs-lts
+```
+
+### Python
+
+```
+choco install python
+```
+
+### Dot Net Core
+
+```
+choco install dotnetcore-sdk
 ```
 
 ### Windows Subsystem for Linux
@@ -43,11 +55,10 @@ Check that this setup has also been added to `.bashrc` with
 more ~/.bashrc
 ```
 
-Install **Node 8** and update **NPM**
+Install **Node** and update **NPM**
 
 ```
-nvm install 8
-nvm use 8
+nvm install lts
 nvm install-latest-npm
 ```
 
@@ -58,7 +69,7 @@ nvm install-latest-npm
 The Firebase CLI provides a variety of tools for managing, viewing, and deploying to Firebase projects.
 
 ```
-npm install -g firebase-tools
+npm install -g firebase
 firebase login
 ```
 
