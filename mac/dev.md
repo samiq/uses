@@ -2,16 +2,6 @@
 
 Below is my current development stack setup on Mac
 
-## Cocoapods
-
-To manage dependencies for Swift and Objective-C projects
-
-```
-sudo gem install cocoapods
-pod setup
-```
-
----
 
 ### NVM + Node
 
@@ -21,22 +11,55 @@ To install and manage multiple versions of Node
 brew install nvm
 ```
 
-Open `.bash_profile` and `.zshrc` to set NVM home folder and its initial setup with `nano ~/.bash_profile` and `nano ~/.zshrc` and add
+Open `.zshrc` to set NVM home folder and its initial setup with `nano ~/.zshrc` and add
 
 ```
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 ```
 
-Install **Node 8** and update **NPM**
+Install **Node 12** and update **NPM**
 
 ```
-nvm install 8
-nvm use 8
+nvm install 12
+nvm use 12
 nvm install-latest-npm
 ```
 
+### Yarn
+
+Install **yarn**
+
+```
+brew install yarn
+```
+
+### Dot net
+
+Install **.NET Core**
+
+```
+brew cask install dotnet-sdk
+```
+
+### Python
+
+```
+brew install python
+```
+
+
 ---
+
+## Frameworks
+### Cocoapods
+
+To manage dependencies for Swift and Objective-C projects
+
+```
+sudo gem install cocoapods
+pod setup
+```
 
 ### Firebase
 
