@@ -4,7 +4,7 @@ Below is my current development stack setup on Mac
 
 ## Languages
 
-### NVM + Node
+### NVM + Node + Yarn
 
 To install and manage multiple versions of Node
 
@@ -27,8 +27,6 @@ nvm use 12
 nvm install-latest-npm
 ```
 
-### Yarn
-
 Install **yarn**
 
 ```bash
@@ -45,4 +43,17 @@ brew cask install dotnet-sdk
 
 ```bash
 brew install python
+```
+
+---
+
+## Frameworks
+
+### Cocoapods
+
+To manage dependencies for Swift and Objective-C projects
+
+```bash
+sudo gem install cocoapods
+pod setup
 ```

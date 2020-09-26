@@ -1,14 +1,5 @@
 # Frameworks
 
-## Cocoapods
-
-To manage dependencies for Swift and Objective-C projects
-
-```bash
-sudo gem install cocoapods
-pod setup
-```
-
 ## Firebase
 
 The Firebase CLI provides a variety of tools for managing, viewing, and deploying to Firebase projects.

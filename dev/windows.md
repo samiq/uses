@@ -19,26 +19,27 @@ choco install github-desktop
 choco install dotnetcore-sdk
 ```
 
+### Flutter
+
+```bash
+choco install flutter
+```
+
 ### Go
 
 ```bash
 choco install golang
 ```
 
-### Node
+### Node + Yarn
 
 ```bash
 choco install nodejs-lts
+choco install yarn
 ```
 
 ### Python
 
 ```bash
 choco install python
-```
-
-### Flutter
-
-```bash
-choco install flutter
 ```
