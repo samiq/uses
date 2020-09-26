@@ -25,3 +25,15 @@ Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
+
+## Install Cascadia Fonts
+
+```bash
+choco install cascadiafonts
+```
+
+Edit the settings on the Terminal app and include under Powershell profile
+
+```json
+"fontFace": "Cascadia Code PL"
+```
