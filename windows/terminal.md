@@ -26,7 +26,7 @@ Install-Module oh-my-posh -Scope CurrentUser
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
 
-## Install Cascadia Fonts
+### Install Cascadia Fonts
 
 ```bash
 choco install cascadiafonts
