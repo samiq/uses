@@ -2,10 +2,11 @@
 
 Below is my current development stack setup on a Windows PC
 
-### Git
+## Git
 
-```
+```bash
 choco install git
+choco install github-desktop
 ```
 
 ---
@@ -14,24 +15,30 @@ choco install git
 
 ### Dot Net Core
 
-```
+```bash
 choco install dotnetcore-sdk
 ```
 
 ### Go
 
-```
+```bash
 choco install golang
 ```
 
 ### Node
 
-```
+```bash
 choco install nodejs-lts
 ```
 
 ### Python
 
-```
+```bash
 choco install python
+```
+
+### Flutter
+
+```bash
+choco install flutter
 ```
