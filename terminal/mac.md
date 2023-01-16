@@ -12,7 +12,7 @@ xcode-select --install
 - Install [`Homebrew`](https://brew.sh/), the package manager for Mac
 
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 - Install [`Oh My Zsh`](https://ohmyz.sh/)
