@@ -6,6 +6,12 @@ Below is my current development stack setup on Mac
 
 ### NVM + Node + Yarn
 
+To install latest version of node
+
+```bash
+brew install node
+```
+
 To install and manage multiple versions of Node
 
 ```bash
@@ -54,6 +60,6 @@ brew install python
 To manage dependencies for Swift and Objective-C projects
 
 ```bash
-sudo gem install cocoapods
+brew install cocoapods
 pod setup
 ```
