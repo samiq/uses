@@ -9,7 +9,7 @@ Below is my current development stack setup on Mac
 To install latest version of node
 
 ```bash
-brew install node
+brew install nodejs
 ```
 
 To install and manage multiple versions of Node
@@ -28,8 +28,8 @@ source $(brew --prefix nvm)/nvm.sh
 Install **Node 12** and update **NPM**
 
 ```bash
-nvm install 12
-nvm use 12
+nvm install 20
+nvm use 20
 nvm install-latest-npm
 ```
 
@@ -49,6 +49,42 @@ brew cask install dotnet-sdk
 
 ```bash
 brew install python
+```
+
+### Ruby on Rails
+
+#### Install Ruby
+
+```
+brew install rbenv ruby-build
+```
+
+then run
+
+```
+rbenv install -l
+```
+
+to list all available Ruby runtimes and chose one to install
+
+```
+rbenv install 3.2.2
+rbenv global 3.2.2
+rbenv init
+```
+
+modify the `.zprofile` to evaluate `rbenv`
+
+```
+eval "$(rbenv init - zsh)"
+```
+
+#### Install Rails
+
+to install rails
+
+```
+gem install rails
 ```
 
 ---
