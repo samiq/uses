@@ -1,3 +1,9 @@
+### Git
+
+Git is already installed in Ubuntu, but if you want to use the credentials already setup in Windows, then follow the steps in the link below
+
+https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-git
+
 ### Ruby on Rails
 
 #### Install Ruby
