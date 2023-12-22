@@ -42,8 +42,17 @@ and chose one to install, and set it as global
 
 ```
 rbenv install 3.2.2
+```
+
+```
 rbenv global 3.2.2
+
+```
 rbenv init
+```
+
+```
+echo 'eval "$(rbenv init - bash)"' >> ~/.bashrc
 ```
 
 #### Install Rails
