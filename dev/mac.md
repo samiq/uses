@@ -55,7 +55,7 @@ brew install python
 
 #### Install Ruby
 
-```
+```bash
 brew install rbenv ruby-build
 ```
 
@@ -67,15 +67,19 @@ rbenv install -l
 
 to list all available Ruby runtimes and chose one to install
 
+```bash
+rbenv install 3.3.0
 ```
-rbenv install 3.2.2
-rbenv global 3.2.2
+```bash
+rbenv global 3.3.0
+```
+```bash
 rbenv init
 ```
 
 modify the `.zprofile` to evaluate `rbenv`
 
-```
+```bash
 eval "$(rbenv init - zsh)"
 ```
 
@@ -83,7 +87,7 @@ eval "$(rbenv init - zsh)"
 
 to install rails
 
-```
+```bash
 gem install rails
 ```
 
@@ -97,5 +101,7 @@ To manage dependencies for Swift and Objective-C projects
 
 ```bash
 brew install cocoapods
+```
+```bash
 pod setup
 ```
