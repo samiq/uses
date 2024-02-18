@@ -15,6 +15,15 @@ xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+- On Old Macs, install zsh 
+```bash
+brew install zsh
+```
+
+```bash
+chsh -s /bin/zsh
+```
+
 - Install [`Oh My Zsh`](https://ohmyz.sh/)
 
 ```bash
@@ -38,6 +47,9 @@ ZSH_THEME=cobalt2
 
 ```bash
 brew tap homebrew/cask-fonts
+```
+
+```bash
 brew install --cask font-cascadia-code-pl
 ```
 
