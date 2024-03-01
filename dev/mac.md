@@ -61,7 +61,7 @@ brew install rbenv ruby-build
 
 then run
 
-```
+```bash
 rbenv install -l
 ```
 
