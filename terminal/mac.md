@@ -46,10 +46,6 @@ ZSH_THEME=cobalt2
 - For the theme to work you need a font that support ligatures such as [Microsoft Cascadia Code](https://github.com/microsoft/cascadia-code).
 
 ```bash
-brew tap homebrew/cask-fonts
-```
-
-```bash
 brew install --cask font-cascadia-code-pl
 ```
 
