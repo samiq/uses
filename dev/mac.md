@@ -101,6 +101,12 @@ to install rails-new
 /Users/xxx/Projects/sdks/rails-new
 ```
 
+4. Create a new rails app
+
+```bash
+rails-new -u 3.3.6 -r 8.0.1 appname --devcontainer
+```
+
 ---
 
 ## Frameworks
