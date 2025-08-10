@@ -68,10 +68,10 @@ rbenv install -l
 to list all available Ruby runtimes and chose one to install
 
 ```bash
-rbenv install 3.3.6
+rbenv install 3.4.5
 ```
 ```bash
-rbenv global 3.3.6
+rbenv global 3.4.5
 ```
 ```bash
 rbenv init
@@ -91,7 +91,7 @@ to install rails
 gem install rails
 ```
 
-to install rails-new 
+to install rails-new
 
 1. Download `rails-new` from their [repo](https://github.com/rails/rails-new)
 2. Save into folder i.e. Projects/sdks
