@@ -19,3 +19,11 @@ npm install -g @anthropic-ai/claude-code
 ```bash
 npm install -g @google/gemini-cli
 ```
+
+## Apps
+
+- [Notepad.exe](https://notepadexe.com)
+- [Commander](https://commanderai.app)
+- [Craft Agents](https://agents.craft.do)
+
+
