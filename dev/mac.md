@@ -28,8 +28,8 @@ source $(brew --prefix nvm)/nvm.sh
 Install **Node** and update **NPM**
 
 ```bash
-nvm install-lts
-nvm install-latest-npm
+nvm install --lts
+nvm install --latest-npm
 ```
 
 Install **yarn**
