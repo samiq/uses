@@ -20,10 +20,14 @@ npm install -g @anthropic-ai/claude-code
 npm install -g @google/gemini-cli
 ```
 
+### Copilot
+
+```bash
+npm install -g @github/copilot
+```
+
 ## Apps
 
 - [Notepad.exe](https://notepadexe.com)
 - [Commander](https://commanderai.app)
 - [Craft Agents](https://agents.craft.do)
-
-
