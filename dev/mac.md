@@ -67,10 +67,10 @@ rbenv install -l
 to list all available Ruby runtimes and chose one to install
 
 ```bash
-rbenv install 3.4.8
+rbenv install 3.4.9
 ```
 ```bash
-rbenv global 3.4.8
+rbenv global 3.4.9
 ```
 ```bash
 rbenv init
@@ -103,7 +103,7 @@ to install rails-new
 4. Create a new rails app
 
 ```bash
-rails-new -u 3.4.8 -r 8.1.2 appname --devcontainer
+rails-new -u 3.4.9 -r 8.1.3 appname --devcontainer
 ```
 
 ---
