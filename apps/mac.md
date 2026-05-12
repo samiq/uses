@@ -78,6 +78,8 @@ brew install --cask chatgpt-atlas
 
 brew install mole
 
+brew install --cask typeless
+
 ## Apps not available from the Appstore are
 
 - [Vanilla](https://matthewpalmer.net/vanilla/): to hide menu bar icons on your Mac.
