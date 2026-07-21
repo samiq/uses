@@ -23,7 +23,8 @@ APPS=(
 	"Editors|Windsurf|cask|windsurf"
 
 	"AI Apps|ChatGPT|cask|chatgpt"
-	"AI Apps|Claude|cask|claude"
+	"AI Apps|Claude|cask|claude"	
+	"AI Apps|Manus|cask|manus"
 	"AI Apps|Perplexity|cask|perplexity"
 
 	"Office Apps|Google Drive|cask|google-drive"
