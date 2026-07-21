@@ -21,6 +21,7 @@ APPS=(
 
 	"AI Apps|Claude|cask|claude"
 	"AI Apps|ChatGPT|cask|chatgpt"
+	"AI Apps|Perplexity|cask|perplexity"
 
 	"Office Apps|Superhuman|cask|superhuman"
 	"Office Apps|Notion|cask|notion"
