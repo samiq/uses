@@ -26,6 +26,7 @@ APPS=(
 	"AI Apps|Claude|cask|claude"
 	"AI Apps|Perplexity|cask|perplexity"
 
+	"Office Apps|Google Drive|cask|google-drive"
 	"Office Apps|Granola|cask|granola"		
 	"Office Apps|Microsoft AutoUpdate|cask|microsoft-auto-update"
 	"Office Apps|Microsoft Office|cask|microsoft-office"
