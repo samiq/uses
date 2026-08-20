@@ -23,7 +23,9 @@ APPS=(
 	"Editors|Windsurf|cask|windsurf"
 
 	"AI Apps|ChatGPT|cask|chatgpt"
-	"AI Apps|Claude|cask|claude"	
+	"AI Apps|Claude|cask|claude"
+	"AI Apps|Cursor|cask|cursor"
+	"AI Apps|Github Copilot|cask|github-copilot-app"
 	"AI Apps|Manus|cask|manus"
 	"AI Apps|Perplexity|cask|perplexity"
 
