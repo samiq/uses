@@ -19,13 +19,13 @@ APPS=(
 	"Dev Frameworks|Xcodes|formula|xcodesorg/made/xcodes"
 
 	"Editors|Antigravity|cask|antigravity"
+	"Editors|Cursor|cask|cursor"
+	"Editors|Devin Desktop|cask|devin-desktop"
+	"Editors|Github Copilot|cask|github-copilot-app"
 	"Editors|Visual Studio Code|cask|visual-studio-code"
-	"Editors|Windsurf|cask|windsurf"
 
 	"AI Apps|ChatGPT|cask|chatgpt"
-	"AI Apps|Claude|cask|claude"
-	"AI Apps|Cursor|cask|cursor"
-	"AI Apps|Github Copilot|cask|github-copilot-app"
+	"AI Apps|Claude|cask|claude"	
 	"AI Apps|Manus|cask|manus"
 	"AI Apps|Perplexity|cask|perplexity"
 
