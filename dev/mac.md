@@ -6,12 +6,6 @@ Below is my current development stack setup on Mac
 
 ### NVM + Node + Yarn
 
-To install latest version of node
-
-```bash
-brew install nodejs
-```
-
 To install and manage multiple versions of Node
 
 ```bash
@@ -67,16 +61,16 @@ rbenv install -l
 to list all available Ruby runtimes and chose one to install
 
 ```bash
-rbenv install 3.4.9
+rbenv install 4.0.6
 ```
 ```bash
-rbenv global 3.4.9
+rbenv global 4.0.6
 ```
 ```bash
 rbenv init
 ```
 
-modify the `.zprofile` to evaluate `rbenv`
+this will modify the `.zprofile` to evaluate `rbenv`
 
 ```bash
 eval "$(rbenv init - zsh)"
