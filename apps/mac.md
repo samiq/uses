@@ -2,7 +2,9 @@
 
 ## Basics
 
-once `homebrew` has been installed, run `.\setup.sh` from the scripts folder. chose the apps you want to install and let the script do the rest.
+once `homebrew` has been installed, run `.\setup.sh` from the scripts folder.
+
+chose the apps you want to install and let the script do the rest.
 
 after nvm has been installed, make sure to add the right setup on `.zprofile`.
 
